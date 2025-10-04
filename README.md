@@ -11,8 +11,6 @@ Designed for <a href="https://github.com/roflmuffin/CounterStrikeSharp">CounterS
 </a>
 </p>
 
-### Discord Support Server
-[<img src="https://discordapp.com/api/guilds/1149315368465211493/widget.png?style=banner2">](https://discord.gg/Tzmq98gwqF)
 
 ### Installation
 1. Download the lastest release https://github.com/NockyCZ/CS2-ReservedSlots/releases/latest
