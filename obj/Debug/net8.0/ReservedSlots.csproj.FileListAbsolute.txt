@@ -1,0 +1,12 @@
+F:\cs2-projekte\CS2-ReservedSlots\bin\Debug\net8.0\ReservedSlots.deps.json
+F:\cs2-projekte\CS2-ReservedSlots\bin\Debug\net8.0\ReservedSlots.dll
+F:\cs2-projekte\CS2-ReservedSlots\bin\Debug\net8.0\ReservedSlots.pdb
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\ReservedSlots.csproj.AssemblyReference.cache
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\ReservedSlots.GeneratedMSBuildEditorConfig.editorconfig
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\ReservedSlots.AssemblyInfoInputs.cache
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\ReservedSlots.AssemblyInfo.cs
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\ReservedSlots.csproj.CoreCompileInputs.cache
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\ReservedSlots.dll
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\refint\ReservedSlots.dll
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\ReservedSlots.pdb
+F:\cs2-projekte\CS2-ReservedSlots\obj\Debug\net8.0\ref\ReservedSlots.dll
