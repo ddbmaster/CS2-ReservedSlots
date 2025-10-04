@@ -19,8 +19,6 @@ Designed for <a href="https://github.com/roflmuffin/CounterStrikeSharp">CounterS
 3. Unzip into your servers `csgo/addons/counterstrikesharp/plugins/` dir
 4. Restart the server
 
-### Dependencies
-- [CS2 Discord Utilities](https://github.com/NockyCZ/CS2-Discord-Utilities) (Only if you want to use a version thats supports Discord Utilities)
 
 ## Configuration
 ```configs/plugins/ReservedSlots/ReservedSlots.json```
